@@ -30,3 +30,10 @@ optimal but it worked propreli for the game
 I also coded a chronomiter whit minuts and seconds 
 
 ![My Image](IMG00.png)
+
+Do tu that experience i leard much more
+abour unity and C# in unity .
+I am very proud of the work we atchived with the team in less then 48h .
+
+And the jury realy liked the game !
+
