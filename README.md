@@ -3,7 +3,7 @@ ESPACE TEMPS
 
 Game Jam by Play Curious in april 2022
 
-Click [here]([quora.com/profile/Ashish-Kulkarni-100](https://loudebwa.itch.io/espace-temps)) to go to my Quora profile.
+Click [here](https://loudebwa.itch.io/espace-temps) to Play the game.
 
 ![My Image](IMG05.png)
 
