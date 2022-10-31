@@ -7,7 +7,7 @@ Click [here](https://loudebwa.itch.io/espace-temps) to Play the game.
 
 ![My Image](IMG05.png)
 
-Stuck inside a hourglass, two players have a challenge to face:
+Stuck inside a hourglass, two players have a challenge to face :
 
 As long as the sand is flowing down, you must find the jars and 
 bring them to the key zones to score, then try to get points as 
@@ -15,25 +15,25 @@ much as possible to beat your friend.
 
 ![My Image](IMG03.png)
 
-In this project i programmed the mechanics of the game 
+In this project I programmed the mechanics of the game.
 
-The main challenge was the code and setup of multiples controlers 
-for local multiplayer
+The main challenge was the setup of multiple controllers 
+for local multiplayer.
 
 ![My Image](IMG02.png)
 
-due to the fact that is was a game jam the code is not the most 
-optimal but it worked propreli for the game 
+Due to the fact that this project was for a game jam, the code isn't the 
+most optimal but it worked proprerly for the game.
 
 ![My Image](IMG01.png)
 
-I also coded a chronomiter whit minuts and seconds 
+I also coded a chronometer with minuts and seconds 
 
 ![My Image](IMG00.png)
 
-Do tu that experience i leard much more
-abour unity and C# in unity .
-I am very proud of the work we atchived with the team in less then 48h .
+Thanks to this experience, I learned much more
+about Unity and its C#.
+I am very proud of the work we achieved with the team in less than 48h.
 
-And the jury realy liked the game !
+And the jury really liked our game !
 
